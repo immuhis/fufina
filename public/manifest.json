@@ -1,0 +1,15 @@
+{
+  "name": "Fufina Boutique",
+  "short_name": "Fufina",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F5F2",
+  "theme_color": "#D68D8D",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=256&h=256&q=80",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
