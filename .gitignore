@@ -1,0 +1,16 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env.*
+.prisma
+coverage
+playwright-report
+artifacts
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.DS_Store
+.idea
+.vscode
